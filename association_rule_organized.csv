@@ -1,0 +1,128 @@
+1,2,3,4,5
+Sales Executive_JobRole, 2_JobLevel, Sales_Department,,
+High_JobInvolvement, X9_2.0, X12_3.0,,
+Sales Executive_JobRole, Sales_Department, X4_2.0,,
+X7_2.0, Sales Executive_JobRole, Sales_Department,,
+X6_1.0, X9_2.0, X12_3.0,,
+X7_2.0, X9_2.0, X12_3.0,,
+X6_1.0, X7_2.0, X9_2.0,,
+X4_1.0, 1_JobLevel, Single_MaritalStatus, 0_Stock,
+1_JobLevel, X7_1.0, Single_MaritalStatus, 0_Stock,
+Sales Executive_JobRole, 2_JobLevel, Sales_Department, 0_Stock,
+Single_MaritalStatus, Sales Executive_JobRole, Sales_Department, 0_Stock,
+Better_WorkLifeBalance, Sales Executive_JobRole, 2_JobLevel, Sales_Department,
+High_JobInvolvement, 2_JobLevel, Sales_Department, Sales Executive_JobRole,
+Sales Executive_JobRole, 2_JobLevel, Sales_Department, Travel_Rarely_BusinessTravel,
+Sales Executive_JobRole, 2_JobLevel, Sales_Department, X10_1.0,
+X11_1.0, Sales Executive_JobRole, 2_JobLevel, Sales_Department,
+X12_1.0, Sales Executive_JobRole, 2_JobLevel, Sales_Department,
+Sales Executive_JobRole, 2_JobLevel, Sales_Department, X4_2.0,
+X9_1.0, Sales Executive_JobRole, 2_JobLevel, Sales_Department,
+X11_1.0, Sales Executive_JobRole, X12_1.0, 2_JobLevel,
+X11_1.0, X9_1.0, Sales Executive_JobRole, 2_JobLevel,
+X12_1.0, X9_1.0, Sales Executive_JobRole, 2_JobLevel,
+X11_1.0, 2_JobLevel, X10_1.0, X4_2.0,
+X9_1.0, 2_JobLevel, X10_1.0, X4_2.0,
+X11_1.0, X9_1.0, 2_JobLevel, X4_2.0,
+X7_1.0, Research & Development_Department, Research Scientist_JobRole, X10_1.0,
+X12_1.0, Research & Development_Department, Research Scientist_JobRole, X7_1.0,
+X9_1.0, Research & Development_Department, Research Scientist_JobRole, X7_1.0,
+X4_2.0, Sales Executive_JobRole, Sales_Department, Travel_Rarely_BusinessTravel,
+X7_2.0, Sales Executive_JobRole, Sales_Department, Travel_Rarely_BusinessTravel,
+X11_1.0, Sales Executive_JobRole, Sales_Department, X10_1.0,
+X12_1.0, Sales Executive_JobRole, Sales_Department, X10_1.0,
+X9_1.0, Sales Executive_JobRole, Sales_Department, X10_1.0,
+X11_1.0, Sales Executive_JobRole, X12_1.0, Sales_Department,
+X11_1.0, Sales Executive_JobRole, Sales_Department, X4_2.0,
+X11_1.0, X9_1.0, Sales Executive_JobRole, Sales_Department,
+X12_1.0, X9_1.0, Sales Executive_JobRole, Sales_Department,
+X6_1.0, X7_2.0, X9_2.0, X12_3.0,
+Single_MaritalStatus, X4_1.0, 1_JobLevel, Better_WorkLifeBalance, 0_Stock
+Single_MaritalStatus, High_JobInvolvement, X4_1.0, 1_JobLevel, 0_Stock
+Single_MaritalStatus, X4_1.0, 1_JobLevel, 0_Stock, No_WorkLifeBalance
+Single_MaritalStatus, X7_1.0, 1_JobLevel, 0_Stock, No_WorkLifeBalance
+Single_MaritalStatus, X10_1.0, 1_JobLevel, 0_Stock, Research & Development_Department
+X12_1.0, Single_MaritalStatus, 1_JobLevel, 0_Stock, Research & Development_Department
+Single_MaritalStatus, X4_1.0, 1_JobLevel, 0_Stock, Research & Development_Department
+Single_MaritalStatus, X6_1.0, 1_JobLevel, 0_Stock, Research & Development_Department
+Single_MaritalStatus, X7_1.0, 1_JobLevel, 0_Stock, Research & Development_Department
+Single_MaritalStatus, 1_JobLevel, X9_1.0, 0_Stock, Research & Development_Department
+Single_MaritalStatus, X4_1.0, 1_JobLevel, 0_Stock, Travel_Rarely_BusinessTravel
+Single_MaritalStatus, X10_1.0, X4_1.0, 1_JobLevel, 0_Stock
+Single_MaritalStatus, X10_1.0, X6_1.0, 1_JobLevel, 0_Stock
+Single_MaritalStatus, X10_1.0, X7_1.0, 1_JobLevel, 0_Stock
+X11_1.0, Single_MaritalStatus, 1_JobLevel, X4_1.0, 0_Stock
+X11_1.0, Single_MaritalStatus, X6_1.0, 1_JobLevel, 0_Stock
+X11_1.0, Single_MaritalStatus, X7_1.0, 1_JobLevel, 0_Stock
+X12_1.0, Single_MaritalStatus, 1_JobLevel, X4_1.0, 0_Stock
+X12_1.0, Single_MaritalStatus, X6_1.0, 1_JobLevel, 0_Stock
+X12_1.0, Single_MaritalStatus, X7_1.0, 1_JobLevel, 0_Stock
+Single_MaritalStatus, X4_1.0, 1_JobLevel, 0_Stock, X2_1.0
+Single_MaritalStatus, X6_1.0, X4_1.0, 1_JobLevel, 0_Stock
+Single_MaritalStatus, X7_1.0, X4_1.0, 1_JobLevel, 0_Stock
+Single_MaritalStatus, X4_1.0, 1_JobLevel, X9_1.0, 0_Stock
+Single_MaritalStatus, X7_1.0, X6_1.0, 1_JobLevel, 0_Stock
+Single_MaritalStatus, X6_1.0, 1_JobLevel, X9_1.0, 0_Stock
+Single_MaritalStatus, X7_1.0, 1_JobLevel, X9_1.0, 0_Stock
+Single_MaritalStatus, X6_1.0, X4_1.0, 0_Stock, Research & Development_Department
+Single_MaritalStatus, X7_1.0, X4_1.0, 0_Stock, Research & Development_Department
+Single_MaritalStatus, X10_1.0, X6_1.0, X4_1.0, 0_Stock
+Single_MaritalStatus, X7_1.0, X10_1.0, X4_1.0, 0_Stock
+Single_MaritalStatus, X7_1.0, X10_1.0, X6_1.0, 0_Stock
+X11_1.0, Single_MaritalStatus, X7_1.0, X4_1.0, 0_Stock
+X11_1.0, Single_MaritalStatus, X7_1.0, X6_1.0, 0_Stock
+X12_1.0, Single_MaritalStatus, X6_1.0, X4_1.0, 0_Stock
+X12_1.0, Single_MaritalStatus, X7_1.0, X4_1.0, 0_Stock
+X12_1.0, Single_MaritalStatus, X7_1.0, X6_1.0, 0_Stock
+Single_MaritalStatus, X7_1.0, X6_1.0, X4_1.0, 0_Stock
+Single_MaritalStatus, X6_1.0, X4_1.0, X9_1.0, 0_Stock
+Single_MaritalStatus, X7_1.0, X4_1.0, X9_1.0, 0_Stock
+Single_MaritalStatus, X7_1.0, X6_1.0, X9_1.0, 0_Stock
+1_JobLevel, X4_1.0, Laboratory Technician_JobRole, Research & Development_Department, No_WorkLifeBalance
+X12_1.0, X10_1.0, 1_JobLevel, Laboratory Technician_JobRole, Research & Development_Department
+X7_1.0, X10_1.0, 1_JobLevel, Laboratory Technician_JobRole, Research & Development_Department
+X10_1.0, 1_JobLevel, Laboratory Technician_JobRole, X9_1.0, Research & Development_Department
+X11_1.0, X7_1.0, 1_JobLevel, Laboratory Technician_JobRole, Research & Development_Department
+X12_1.0, X7_1.0, 1_JobLevel, Laboratory Technician_JobRole, Research & Development_Department
+X12_1.0, 1_JobLevel, Laboratory Technician_JobRole, X9_1.0, Research & Development_Department
+X7_1.0, 1_JobLevel, X4_1.0, Laboratory Technician_JobRole, Research & Development_Department
+X7_1.0, 1_JobLevel, Laboratory Technician_JobRole, X9_1.0, Research & Development_Department
+X12_1.0, X10_1.0, 1_JobLevel, Research Scientist_JobRole, Research & Development_Department
+X7_1.0, X10_1.0, 1_JobLevel, Research Scientist_JobRole, Research & Development_Department
+X10_1.0, 1_JobLevel, Research Scientist_JobRole, X9_1.0, Research & Development_Department
+X11_1.0, X12_1.0, 1_JobLevel, Research Scientist_JobRole, Research & Development_Department
+X11_1.0, X7_1.0, 1_JobLevel, Research Scientist_JobRole, Research & Development_Department
+X12_1.0, X7_1.0, 1_JobLevel, Research Scientist_JobRole, Research & Development_Department
+X12_1.0, 1_JobLevel, Research Scientist_JobRole, X9_1.0, Research & Development_Department
+X7_1.0, 1_JobLevel, X4_1.0, Research Scientist_JobRole, Research & Development_Department
+X7_1.0, 1_JobLevel, Research Scientist_JobRole, X9_1.0, Research & Development_Department
+X11_1.0, X6_1.0, 1_JobLevel, X4_1.0, X0_1.0
+X7_1.0, X6_1.0, X4_1.0, 1_JobLevel, X0_1.0
+X6_1.0, X4_1.0, 1_JobLevel, X0_1.0, X9_1.0
+X11_1.0, X12_1.0, Sales_Department, Sales Executive_JobRole, 2_JobLevel
+X11_1.0, Sales_Department, X9_1.0, Sales Executive_JobRole, 2_JobLevel
+X12_1.0, Sales_Department, X9_1.0, Sales Executive_JobRole, 2_JobLevel
+X11_1.0, X12_1.0, X9_1.0, Sales Executive_JobRole, 2_JobLevel
+X12_1.0, X10_1.0, X4_1.0, Laboratory Technician_JobRole, Research & Development_Department
+X7_1.0, X10_1.0, X4_1.0, Laboratory Technician_JobRole, Research & Development_Department
+X12_1.0, X7_1.0, X4_1.0, Laboratory Technician_JobRole, Research & Development_Department
+X7_1.0, X4_1.0, Laboratory Technician_JobRole, X9_1.0, Research & Development_Department
+X11_1.0, X7_1.0, X10_1.0, Research Scientist_JobRole, Research & Development_Department
+X12_1.0, X10_1.0, X4_1.0, Research Scientist_JobRole, Research & Development_Department
+X12_1.0, X7_1.0, X10_1.0, Research Scientist_JobRole, Research & Development_Department
+X7_1.0, X10_1.0, X4_1.0, Research Scientist_JobRole, Research & Development_Department
+X7_1.0, X10_1.0, Research Scientist_JobRole, X9_1.0, Research & Development_Department
+X11_1.0, X12_1.0, X7_1.0, Research Scientist_JobRole, Research & Development_Department
+X11_1.0, X7_1.0, Research Scientist_JobRole, X9_1.0, Research & Development_Department
+X12_1.0, X7_1.0, X4_1.0, Research Scientist_JobRole, Research & Development_Department
+X12_1.0, X4_1.0, Research Scientist_JobRole, X9_1.0, Research & Development_Department
+X12_1.0, X7_1.0, Research Scientist_JobRole, X9_1.0, Research & Development_Department
+X7_1.0, X4_1.0, Research Scientist_JobRole, X9_1.0, Research & Development_Department
+X11_1.0, X12_1.0, Sales_Department, X10_1.0, Sales Executive_JobRole
+X11_1.0, Sales_Department, X10_1.0, X9_1.0, Sales Executive_JobRole
+X12_1.0, Sales_Department, X10_1.0, X9_1.0, Sales Executive_JobRole
+X11_1.0, X12_1.0, Sales_Department, X9_1.0, Sales Executive_JobRole
+X11_1.0, X10_1.0, X6_1.0, X4_1.0, X0_1.0
+X7_1.0, X10_1.0, X6_1.0, X4_1.0, X0_1.0
+X10_1.0, X6_1.0, X4_1.0, X0_1.0, X9_1.0
+X7_1.0, X10_1.0, X6_1.0, X0_1.0, X9_1.0
